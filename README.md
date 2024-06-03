@@ -10,4 +10,6 @@ player.py -- Class that defines methods and attributes regarding the player obje
 car_manager.py -- Class that defines the process of looping and creating car objects for the player to navigate through
 scoreboard.py -- Simple class that creates a text window using a turtle object. 
 
+I created this utilizing PyCharm as my IDE and the turtle, and random packages.
+
 I am always trying to improve so if theres any notes please let me know!
